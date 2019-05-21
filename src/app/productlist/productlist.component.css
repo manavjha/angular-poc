@@ -1,0 +1,18 @@
+.bg-white {
+    background-color: #d24242 !important;
+    color: #fff;
+    flex-direction: column !important;
+}
+
+.card-body {
+    background-color: #CDDC39;
+}
+
+.list-group-item {
+    background-color: #6ace6e;
+    color: #fff;
+}
+
+.list-group-item span{
+    color: #000;
+}
